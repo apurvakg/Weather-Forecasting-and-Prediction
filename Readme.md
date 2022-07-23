@@ -2,11 +2,7 @@
 
 ## Title: Weather Forecasting and Prediction
 
-## By: Team - 13
-
-## Team Members: Apurva Kumar Gupta(1CR18CS028), Arnab Das(1CR18CS030), Preeti(1CR18CS126)
-
-This is our Final Year Project on Weather Forecasting and prediction. We have built this on Artificial Neural Network with Back Propagation.
+This is my Final Year Project on Weather Forecasting and prediction. I have built this on Artificial Neural Network with Back Propagation.
 
 ### Software Used:
 
@@ -43,4 +39,4 @@ This is our Final Year Project on Weather Forecasting and prediction. We have bu
 
 ### The demo of our project can be viewed at: https://www.youtube.com/watch?v=f9LHGiG1rg0
 
-## Hope you like our project !😊
+## Hope you like the project !😊
